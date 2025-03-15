@@ -11,6 +11,7 @@ o.ORDERCOSTPRICE,
 -- from products
 p.productid,
 p.productname,
+p.category,
 p.subcategory,
 -- from customers
 c.customername,
